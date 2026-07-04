@@ -1,0 +1,21 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161b2e"></stop>
+      <stop offset="1" stop-color="#0d1117"></stop>
+    </linearGradient>
+    <clipPath id="round2"><rect x="0" y="0" width="1200" height="120" rx="10"></rect></clipPath>
+
+  </defs>
+  <g clip-path="url(#round2)">
+    <rect width="1200" height="120" fill="url(#bg2)"></rect>
+    <rect class="scan" x="0" y="0" width="40" height="120" fill="#3fd67a" opacity="0.06"></rect>
+    <g fill="#e8eef7">
+      <rect class="blip" x="530" y="40" width="6" height="6"></rect>
+      <rect class="blip" x="546" y="40" width="6" height="6" style="animation-delay:.2s"></rect>
+      <rect class="blip" x="562" y="40" width="6" height="6" style="animation-delay:.4s"></rect>
+    </g>
+    <text x="600" y="72" text-anchor="middle" font-size="20" fill="#3fd67a">thanks for stopping by ✦ let's build</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="118" rx="10" fill="none" stroke="#2b3a55" stroke-width="2"></rect>
+</svg>
