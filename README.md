@@ -68,7 +68,6 @@ Passionate about product management, UI/UX design, and entrepreneurship, I thriv
 <br/>
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3FD67A)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=3FD67A)
-![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=3FD67A)
 ![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=3FD67A)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3FD67A)
 
@@ -91,11 +90,11 @@ Passionate about product management, UI/UX design, and entrepreneurship, I thriv
 
 ## 🎨 Design & Product Leadership
 
-<a href="https://www.behance.net/gallery/234373419/Portfolio">
-  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="480" alt="Portfolio — Behance case study" />
-</a>
-
 <div align="center">
+
+<a href="https://www.behance.net/gallery/234373419/Portfolio">
+  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="480" alin=center alt="Portfolio — Behance case study" />
+</a>
 
 <sub><b>UI / UX Portfolio</b></sub>
 <br/><br/>
