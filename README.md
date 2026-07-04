@@ -91,8 +91,9 @@ Passionate about product management, UI/UX design, and entrepreneurship, I thriv
 
 ## 🎨 Design & Product Leadership
 
-- **Overall Coordinator, The Product Folks — NITT** (Mar 2025 – Present) — leads a 15-member product team; 25+ vendor interviews, PRDs authored, product-thinking sessions run.
-- **Product Intern, Perfios AA** — delivered PRDs, wireframes, and prototypes end-to-end.
+<a href="https://www.behance.net/gallery/234373419/Portfolio">
+  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="480" alt="Portfolio — Behance case study" />
+</a>
 
 <div align="center">
 
@@ -101,6 +102,8 @@ Passionate about product management, UI/UX design, and entrepreneurship, I thriv
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=3FD67A)](https://dribbble.com/sid1087)
 [![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=3FD67A)](https://www.behance.net/s1ddharthg)
+
+
 
 </div>
 
