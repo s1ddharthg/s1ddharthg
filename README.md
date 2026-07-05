@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3FD67A&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+ML+%2F+DevOps+Intern;Product+Thinker+%2B+Figma+Designer;NIT+Trichy+%E2%80%94+ECE+%2726;Building+FinanceX%2C+MERNBot%2C+Jarvis+Jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3FD67A&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+ML+%2F+Backend+Egnieer;Product+Thinker+%2B+Figma+Designer;NIT+Trichy+%E2%80%94+ECE+%2726;Building+Intelligent%2C+Real%2C+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-Passionate about product management, UI/UX design, and entrepreneurship, I thrive on turning ideas into reality. As a dedicated student in the field, I'm constantly seeking opportunities to learn, grow, and connect with like-minded professionals. With a knack for problem-solving, I'm driven to create innovative solutions that make a real impact.
+Passionate about software engineering, machine learning, and data-driven problem solving, I enjoy building scalable systems and transforming complex ideas into practical solutions. As a student with a strong interest in backend development, AI, and system design, I am constantly exploring new technologies and expanding my technical skills. With a problem-solving mindset and a focus on continuous learning, I am motivated to develop impactful products that combine robust engineering with intelligent decision-making.
 
 <div align="center">
 
