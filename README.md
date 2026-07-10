@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3FD67A&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+ML+%2F+Backend+Egnieer;Product+Thinker+%2B+Figma+Designer;NIT+Trichy+%E2%80%94+ECE+%2726;Building+Intelligent%2C+Real%2C+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3FD67A&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+ML+%2F+Backend+Engineer;Product+%2B+Designer;NIT+Trichy+%E2%80%94+ECE+%2726;Building+Intelligent%2C+Real%2C+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-Passionate about software engineering, machine learning, and data-driven problem solving, I enjoy building scalable systems and transforming complex ideas into practical solutions. As a student with a strong interest in backend development, AI, and system design, I am constantly exploring new technologies and expanding my technical skills. With a problem-solving mindset and a focus on continuous learning, I am motivated to develop impactful products that combine robust engineering with intelligent decision-making.
+I build backend systems and ML pipelines. At Oracle, I replaced a manual Selenium-driven cleanup process with a token-authenticated Spring Boot microservice running at 99.5% accuracy across 1,000+ tenancies. At AGS Health, I built a document-analysis pipeline (DBSCAN + OpenCV + PyTesseract) that lifted layout-analysis accuracy by 60% across 200+ unstructured documents. I'm currently exploring GenAI tooling — RAG pipelines, retrieval, and applied CV.
 
 <div align="center">
 
@@ -35,9 +35,10 @@ Passionate about software engineering, machine learning, and data-driven problem
 ## 🧰 Stack
 
 <div align="center">
+<br/> <br/>
 
 **Languages**
-<br/>
+<br/> 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3FD67A)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=3FD67A)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3FD67A)
@@ -45,6 +46,7 @@ Passionate about software engineering, machine learning, and data-driven problem
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=3FD67A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3FD67A)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=3FD67A)
+<br/> <br/>
 
 **Frontend / Product**
 <br/>
@@ -54,6 +56,7 @@ Passionate about software engineering, machine learning, and data-driven problem
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3FD67A)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=3FD67A)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=3FD67A)
+<br/> <br/>
 
 **Backend / Data / ML**
 <br/>
@@ -63,6 +66,7 @@ Passionate about software engineering, machine learning, and data-driven problem
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=3FD67A)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=3FD67A)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=3FD67A)
+<br/> <br/>
 
 **Tools**
 <br/>
@@ -78,38 +82,46 @@ Passionate about software engineering, machine learning, and data-driven problem
 ## 💼 Experience
 
 <table>
-<tr><td width="150"><b>Oracle</b><br/><sub>Software / DevOps Intern</sub><br/><sub>May – Jul 2025</sub></td>
+<tr><td width="150"><b>Oracle</b><br/><sub>Software Engineering Intern</sub><br/><sub>May – Jul 2025</sub></td>
 <td>Built a Spring Boot microservice replacing manual, Selenium-driven OCI tenancy cleanup with token-authenticated REST APIs — <b>99.5%</b> execution accuracy across <b>1000+ tenancies</b>. Shipped usage-fetching APIs for billing/analytics pipelines and JUnit-validated deploys.</td></tr>
 <tr><td><b>AGS Health</b><br/><sub>ML Research Intern</sub><br/><sub>May 2024 – Apr 2025</sub></td>
-<td>Built an end-to-end ML pipeline (DBSCAN + OpenCV + PyTesseract + ViT) turning <b>200+</b> unstructured documents into structured data, lifting Document Layout Analysis accuracy by <b>60%</b>.</td></tr>
-<tr><td><b>Perfios AA</b><br/><sub>Product Management Intern</sub><br/><sub>Dec 2022 – Jan 2024</sub></td>
-<td>Shaped messaging strategy across <b>6Cr+</b> customer dataset; led a 4-member team delivering PRDs, wireframes, and prototypes for features reaching <b>1B+</b> users on an NBFC-AA licensed platform.</td></tr>
+<td>Built an end-to-end ML pipeline (DBSCAN + OpenCV + PyTesseract + ViT), turning <b>200+</b> unstructured documents into structured data, lifting Document Layout Analysis accuracy by <b>60%</b>.</td></tr>
 </table>
+<br/>
+
+## 📜 Certifications
+
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| [Introduction to AI and Machine Learning on Google Cloud](https://www.coursera.org/account/accomplishments/verify/A59HCQX6EMFU) | Google Cloud Skills Boost |
+| [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/P2TGFNLV8V7M) | Google |
+| [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/79UU7X55HANG) | IBM |
+| [Google AI Essentials](https://www.coursera.org/account/accomplishments/specialization/certificate/MNNRJ59T8AE1) | Google |
+| [Introduction to Generative AI](https://img.shields.io/badge/View%20all%20badges%20on%20Credly-0d1117?style=for-the-badge&logo=credly&logoColor=3FD67A) | Amazon Web Services (AWS) |
+
+
+</div>
 
 <br/>
 
-## 🎨 Design & Product Leadership
+## 🎨 Beyond Engineering
+
+Earlier in my career, I led product/UX work, including a Product Management internship at Perfios AA, shaping messaging strategy across a 6Cr+ customer dataset and delivering PRDs, wireframes, and prototypes for a platform reaching 1B+ users, and I still design.
 
 <div align="center">
+  
+<div align="center"> <strong>UI/UX Portfolio</strong> </div>
+<br/>
 
 <a href="https://www.behance.net/gallery/234373419/Portfolio">
-  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="480" alin=center alt="Portfolio — Behance case study" />
+  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="420" align="center" alt="Portfolio — Behance case study" />
 </a>
-
-<sub><b>UI / UX Portfolio</b></sub>
-<br/><br/>
-
-[![Dribbble](https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=3FD67A)](https://dribbble.com/sid1087)
-[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=3FD67A)](https://www.behance.net/s1ddharthg)
-
-
-
 </div>
-
 <br/>
-
 <div align="center">
-
 <img src="assets/banner-footer.svg" width="100%" alt="footer"/>
-
 </div>
+
