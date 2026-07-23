@@ -116,8 +116,13 @@ Earlier in my career, I led product/UX work, including a Product Management inte
 <div align="center"> <strong>UI/UX Portfolio</strong> </div>
 <br/>
 
-<a href="https://www.behance.net/gallery/234373419/Portfolio">
-  <img src="https://wsrv.nl/?url=mir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs_webp%2F66f379234373419.68c1f0f71bbd3.png&w=1400&h=1119&fit=cover&a=top&output=png" width="420" align="center" alt="Portfolio — Behance case study" />
+<a href="https://www.designedbysid.work/">
+  <img
+    src="https://www.designedbysid.work/og.png"
+    width="630"
+    align="center"
+    alt="Siddharth G — Portfolio"
+  />
 </a>
 </div>
 <br/>
